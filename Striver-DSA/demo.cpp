@@ -10,7 +10,7 @@ int main() {
 
     int number;
     cin >> number; // input.txt se number read karega
-    cout << "Aapka input number he: " << number << endl; // output.txt me likhega
+    cout << "input number: " << number << endl; // output.txt me likhega
     
     return 0;
 }
